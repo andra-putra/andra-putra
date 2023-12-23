@@ -1,5 +1,17 @@
-### Hi there 👋
+# Andra Putra
+#### Undergraduate Student in Japan
 
+### Topics:
+- Linux (Fedora, Kali, etc.)
+- Raspbery Pi
+- Arduino
+- Mechanical keyboards
+- Trackballs
+- Retro tech
+- Homelab & Networks
+- Thinkpad
+
+[Twitter](https://twitter.com/TopiLaron)
 <!--
 **andra-putra/andra-putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
