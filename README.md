@@ -1,15 +1,17 @@
 # Andra Putra
-#### Undergraduate Student in Japan
+#### Undergraduate Student in Japan.
+#### Network/Server Engineer in Japan from 2025.
 
 ### Topics:
-- Linux (Fedora, Kali, etc.)
+- Linux (Fedora, Kali, PopOS, etc.)
 - Raspbery Pi
 - Arduino
 - Mechanical keyboards
 - Trackballs
 - Retro tech
 - Homelab & Networks
-- Thinkpad
+- Thinkpads
+- Hundreds of other gadgets in my room
 
 [Twitter](https://twitter.com/TopiLaron)
 <!--
