@@ -1,6 +1,6 @@
 # Andra Putra
-#### Undergraduate Student in Japan.
-#### Network/Server Engineer in Japan from 2025.
+Undergraduate Student in Tokyo, Japan.
+Network/Server Engineer from 2025.
 
 ### Topics:
 - Linux (Fedora, Kali, PopOS, etc.)
