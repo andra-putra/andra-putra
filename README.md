@@ -1,6 +1,8 @@
 # Andra Putra
-Undergraduate Student in Tokyo, Japan.
+Undergraduate DBI (IT & Business) Student in Tokyo, Japan.
+
 Network/Server Engineer from 2025.
+
 
 ### Topics:
 - Linux (Fedora, Kali, PopOS, etc.)
