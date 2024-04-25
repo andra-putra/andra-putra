@@ -1,8 +1,6 @@
 # Andra Putra
-Undergraduate DBI (IT & Business) Student in Tokyo, Japan.
-
-Network/Server Engineer from 2025.
-
+Undergraduate Student in Japan.
+Sysadmin/Devops life soon?
 
 ### Topics:
 - Linux (Fedora, Kali, PopOS, etc.)
@@ -13,7 +11,7 @@ Network/Server Engineer from 2025.
 - Retro tech
 - Homelab & Networks
 - Thinkpads
-- Hundreds of other gadgets in my room
+- Pile of gadgets, electronics, and doodads in my room
 
 [Twitter](https://twitter.com/TopiLaron)
 <!--
