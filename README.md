@@ -3,7 +3,7 @@ Undergraduate Student in Japan.
 Sysadmin/Devops life soon?
 
 ### Topics:
-- Linux (Fedora, Kali, PopOS, etc.)
+- Linux (Fedora, PopOS, etc.)
 - Raspbery Pi
 - Arduino
 - Mechanical keyboards
