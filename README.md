@@ -1,6 +1,5 @@
 # Andra Putra
-Undergraduate Student in Japan.
-Sysadmin/Devops life soon?
+IT Infrastructure / Sysadmin / Networks / Cloud / Cybersec in Japan
 
 ### Topics:
 - Linux (Fedora, PopOS, etc.)
@@ -13,7 +12,7 @@ Sysadmin/Devops life soon?
 - Thinkpads
 - Pile of gadgets, electronics, and doodads in my room
 
-[Twitter](https://twitter.com/TopiLaron)
+[Twitter](https://twitter.com/andra_putr)
 <!--
 **andra-putra/andra-putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
